@@ -1,0 +1,101 @@
+header{
+    height:100px;
+    width:100%;
+    background-color:rgb(68, 65, 77);
+    color:white;
+}
+.search:hover{
+    transform: scale(1.1);
+}
+.uppernav{
+    height:65%;
+    width:60%;
+   margin-top:15px;
+    border-radius:2%;
+    background-color: white;
+}
+
+
+.innernav{
+   width:100%;
+    height:50%;
+    margin-left:50px;
+color:white;
+}
+
+
+ #banner{
+    height:350px;
+    width:100%;
+    margin-top:10px;
+   
+}
+#slider1{
+    width:100%;
+    height:600px;
+    margin-top:20px;
+    margin-right:20px;
+ background-color:rgb(36, 33, 46);
+
+}
+.play{
+    color:red;
+}
+#slider{
+ 
+    width:100%;
+    margin-top:20px;
+ 
+}
+
+footer{
+       width:100%;
+    margin-top:20px;
+    border:2px solid yellowgreen;
+    background-color:rgb(36, 33, 46);
+}
+.button{
+    margin-top: 20px;
+ 
+}
+.logos{
+    background-color: rgb(65, 65, 85);
+}
+.logo{ margin-top: 20px;
+   margin-left:50%;
+}
+.divide{
+    margin-top: 20px;
+    margin-left: 40px;
+    color:rgb(238, 234, 234);
+}
+.divide1{
+    color:rgb(238, 234, 234);
+}
+#social{
+    width:30%;
+    margin-right:2%;
+    margin-top: 5px;
+   
+}
+.socialdiv{
+    float:center;
+
+}
+.socialdiv> a{
+    text-decoration: none;
+
+}
+.socialLogo{
+    height:50px;
+    color:rgb(117, 110, 110)
+  
+}
+.sociallogo:hover{
+    transform:scale(1.1);
+}
+.text{
+    margin-top: 10px;
+    text-align: center;
+    color:rgb(238, 234, 234);
+}
